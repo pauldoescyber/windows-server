@@ -37,7 +37,7 @@ users that will use the server we have set up for DNS, DHCP amongst other servic
   </li>
   <br />
   <br />
-  <li>Next we will set start our Domain controller/DC (either by double clicking the machine or the power button next to it) and upon starting it, it will
+  <li>Next we will set start our virtual machine (either by double clicking the machine or the power button next to it) and upon starting it, it will
     basically prompt us for an Operating System as our machine is on but we haven't given it an OS yet so what we will do is we will click on the 
     small icon denoting folders and navigate to where we stored our Server 19 ISO(that we downloaded earlier) and it will probably be saved under a different name
     and we will select it and have it as our disk image, and finallly we will press start.As shown in the series of images below.
@@ -45,6 +45,23 @@ users that will use the server we have set up for DNS, DHCP amongst other servic
    <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/fcdaf33d-0689-4484-a908-30cd42d1f510" height ="80%" width ="90%" alt ="Clicking on Icon folder">
    <br />
    <br />
+   <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/05c4adc2-f5e1-436c-9bc8-80b4e32595a8" height ="80%" width ="90%" alt ="Clicking on the add button to navigate to the downloaded ISO">
+   <br />
+    <br />
+    <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/05c4adc2-f5e1-436c-9bc8-80b4e32595a8" height ="80%" width ="90%" alt ="Clicking on the add button to navigate to the downloaded ISO">
+   <br />
+    <br />
+    <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/718989d9-c010-46f3-aa9a-6fe9780f1646" height ="80%" width ="90%" alt ="Selecting your server 19 ISO">
+   <br />
+    <br />
+    <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/9cc880a7-1b38-4c43-bcfb-4c3f963e9e91" height ="80%" width ="90%" alt ="Final stage in selecting ISO for your pc">
+   <br />
+    <br />
+    <li>Next will be setting up the server and initial configurations, the first thing to note is the OS to pick should be Window's Server Standard Evolution 2019(Desktop Experience)
+        <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/900f03a4-7411-40d6-8b76-7abc8ca3b64b" height ="80%" width ="90%" alt ="Clicking on Icon folder">
+    </li>
+  <br />
+  <br />
   
 
 
