@@ -77,6 +77,11 @@ users that will use the server we have set up for DNS, DHCP amongst other servic
     </li>
   <br />
   <br />
+  <li>Double click and run Virtual box Guest additions.
+        <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/07a2d90b-6f58-4b0d-9bb3-0d47ef31ca6d" height ="80%" width ="90%" alt ="Checking reboot manually option after CD image is installed">
+    </li>
+  <br />
+  <br />
 <li>Once the additonal cd image has finished runnig opt to manually reboot later. THis is because the restart now option did not effect the desired results.This is illustrated bellow.
         <img src="https://github.com/pauldoescyber/ActiveDirectoryLab/assets/172483061/1ecb376f-b98b-469e-9a4d-b4941f2b47d1" height ="80%" width ="90%" alt ="Checking reboot manually option after CD image is installed">
     </li>
