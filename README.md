@@ -62,6 +62,11 @@ users that will use the server we have set up for DNS, DHCP amongst other servic
     </li>
   <br />
   <br />
+   <li>Click on Next until you arrive at the window where you will be prompted for a pasword in the intial login and here place the password as  "Password1"(For ease.. but you should probably select a secure password)
+        <img src="https://github.com/pauldoescyber/windows-server/assets/172483061/409a41fa-5e52-4567-8853-5046e2b5cd40" height ="80%" width ="90%" alt ="Initial login">
+    </li>
+  <br />
+  <br />
   
 
 
